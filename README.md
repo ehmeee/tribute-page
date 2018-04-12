@@ -1,2 +1,2 @@
 # tribute-page
-A tribute page for Audrey Hepburn
+A tribute webpage to Audrey Hepburn using HTML, CSS, & Bootstrap.
